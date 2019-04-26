@@ -1,0 +1,1 @@
+shutdown -s -t 90 -c "This is the PC ShutDown Virus.... Save your programmes Immediatly"
